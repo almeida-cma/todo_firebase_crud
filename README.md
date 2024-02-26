@@ -1,2 +1,1 @@
-# todo_firebase_crud
-CRUD de lista "todo"
+https://almeida-cma.github.io/todo_firebase_crud/
